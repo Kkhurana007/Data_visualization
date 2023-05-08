@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Data_visualization"
+  site-url: "https://Kkhurana007.github.io/Data_visualization"
+  description: "titanic data set"
+  repo-branch: main
+  repo-url: "https://github.com/Kkhurana007/Data_visualization"
